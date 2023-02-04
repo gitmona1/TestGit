@@ -4,8 +4,9 @@ public class gitjava {
 	
 	public static void main(String[] args) {
 		
-		 System.out.print("Demo Git Test");
-		 System.out.println("Success Demo");
+		 System.out.println("Demo Git Test");
+		 System.out.println("Success Demo1");
+		 
 	}
 	
 
